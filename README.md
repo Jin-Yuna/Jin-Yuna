@@ -7,7 +7,7 @@
 
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&weight=700&size=35&pause=1000&color=A8BED2&random=false&width=435&height=53&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BB+I'm+Yuna)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&weight=700&size=40&pause=1000&color=A8BED2&center=true&vCenter=true&random=false&width=433&height=53&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BB+I'm+Yuna)](https://git.io/typing-svg)
 
 <br><br><br>
 
